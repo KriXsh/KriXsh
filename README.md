@@ -29,13 +29,14 @@
 
 
 
-🏆 Certifications & Achievements
-React Redux Training - Cipher Schools
-Artificial Intelligence Fundamentals - Invincible Ocean
-ACE Multicloud Network Associate - Aviatrix
-Web Development Bootcamp - Udemy
-Object-Oriented Programming Using Python - E-Box
-Java Foundations Certification - HackerRank
+##  🏆 Certifications & Achievements
+- ACE Multicloud Network Associate - Aviatrix
+- Java Foundations Certification - HackerRank
+- React Redux Training - Cipher Schools
+- Artificial Intelligence Fundamentals - Invincible Ocean
+- Web Development Bootcamp - Udemy
+- Object-Oriented Programming Using Python - E-Box
+
 
 
 <h3 align="left">Connect with me:</h3>
