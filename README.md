@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm krish</h1>
-<h3 align="center">I am a skilled Backend Developer with a strong foundation in creating efficient and high-performance server-side applications. My expertise extends to cloud services, particularly AWS, and includes a deep understanding of database optimization and API development.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/016/746/979/small/freelancer-software-developer-programmer-coder-illustrator-vector.jpg">
-
+<h3 align="center">As a MERN stack enthusiast, I thrive in crafting seamless user experiences while delving deep into backend intricacies. Beyond coding, I harbor a fascination for DevOps methodologies and cloud innovations. Eager to merge my frontend finesse, backend prowess, and DevOps intrigue, I seek a role that not only values my existing skills but propels me into new realms of expertise. Let's embark on a journey where code meets innovation, and every challenge is an opportunity for growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krixsh&label=Profile%20views&color=0e75b6&style=flat" alt="krixsh" /> </p>
 
