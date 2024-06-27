@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps technologies, AI/ML,Database query optimization, AutoScaling,Data structures & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://krish-me.netlify.app/](https://krish-me.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://krish.me](https://krish-me.netlify.app/)
 
 - 💬 Ask me about **Backend Devlopement, DevOps, node.js, Express.js, MongoDb, AWS, Elastic search, Redis**
 
