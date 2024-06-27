@@ -1,4 +1,5 @@
-[![MasterHead]([https://i.imgur.com/YOUR_IMAGE_ID.gif](https://4kwallpapers.com/images/wallpapers/coder-amoled-black-3440x1440-13668.png))](https://krish-me.netlify.app/)
+[![MasterHead](https://t3.ftcdn.net/jpg/05/66/08/08/360_F_566080805_0dn6puk0HIff3qP3anTK5LJ7B0FF7Do6.jpg)](https://krish-me.netlify.app/)
+
 <h1 align="center">Hi 👋, I'm krish</h1>
 <h3 align="center">I am a skilled Backend Developer with a strong foundation in creating efficient and high-performance server-side applications. My expertise extends to cloud services, particularly AWS, and includes a deep understanding of database optimization and API development.</h3>
 
