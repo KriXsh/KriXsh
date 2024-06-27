@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **krishnendughosal999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gocSJQeR-ItMpaQBJnYDZYTmSNVakzzL/view?usp=drive_link](https://drive.google.com/file/d/1gocSJQeR-ItMpaQBJnYDZYTmSNVakzzL/view?usp=drive_link)
+- 📄 Know about my experiences [krishnendu's Resume Link](https://drive.google.com/file/d/1gocSJQeR-ItMpaQBJnYDZYTmSNVakzzL/view?usp=drive_link)
 
 ## 🌟 Highlights
 
