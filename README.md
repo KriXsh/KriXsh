@@ -42,7 +42,7 @@ CGPA: 7.0/10
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krish-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krish-me/" height="30" width="40" /></a>
 <a href="https://instagram.com/krishxxoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishxxoo" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/krishnendu_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krishnendu_99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@krishnendughosa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krishnendughosa1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/krishnendughosa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/krishnendughosa1" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/krishnendughosal999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/krishnendughosal999/" height="30" width="40" /></a>
 </p>
 
