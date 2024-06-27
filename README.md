@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm krish</h1>
 <h3 align="center">I am a skilled Backend Developer with a strong foundation in creating efficient and high-performance server-side applications. My expertise extends to cloud services, particularly AWS, and includes a deep understanding of database optimization and API development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_11072679.png">
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/016/746/979/small/freelancer-software-developer-programmer-coder-illustrator-vector.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krixsh&label=Profile%20views&color=0e75b6&style=flat" alt="krixsh" /> </p>
