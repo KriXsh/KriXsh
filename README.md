@@ -27,8 +27,6 @@
 - Optimized database queries and implemented caching mechanisms to improve performance.
 - Utilized cloud services to deploy and manage applications, ensuring high availability and reliability.
 
-
-
 ##  🏆 Certifications & Achievements
 - ACE Multicloud Network Associate - Aviatrix
 - Java Foundations Certification - HackerRank
@@ -37,6 +35,10 @@
 - Web Development Bootcamp - Udemy
 - Object-Oriented Programming Using Python - E-Box
 
+## 🎓 Education
+Lovely Professional University
+B.Tech in Computer Science & Engineering | 2019 - 2023
+CGPA: 7.0/10
 
 
 <h3 align="left">Connect with me:</h3>
