@@ -1,4 +1,3 @@
-[![MasterHead](https://i.gifer.com/3AyY.gif)](https://krish-me.netlify.app/)
 <h1 align="center">Hi 👋, I'm krish</h1>
 <h3 align="center">I am a skilled Backend Developer with a strong foundation in creating efficient and high-performance server-side applications. My expertise extends to cloud services, particularly AWS, and includes a deep understanding of database optimization and API development.</h3>
 
@@ -23,6 +22,26 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gocSJQeR-ItMpaQBJnYDZYTmSNVakzzL/view?usp=drive_link](https://drive.google.com/file/d/1gocSJQeR-ItMpaQBJnYDZYTmSNVakzzL/view?usp=drive_link)
 
+## 🌟 Highlights
+
+- Developed secure and scalable APIs for financial applications.
+- Worked on microservices architecture to enhance system scalability and maintainability.
+- Optimized database queries and implemented caching mechanisms to improve performance.
+- Utilized cloud services to deploy and manage applications, ensuring high availability and reliability.
+
+## 📈 GitHub Stats
+
+![Krishnendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnendu-ghosal&show_icons=true&theme=radical)
+
+🏆 Certifications & Achievements
+React Redux Training - Cipher Schools
+Artificial Intelligence Fundamentals - Invincible Ocean
+ACE Multicloud Network Associate - Aviatrix
+Web Development Bootcamp - Udemy
+Object-Oriented Programming Using Python - E-Box
+Java Foundations Certification - HackerRank
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krishxxoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishxxoo" height="30" width="40" /></a>
@@ -41,3 +60,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krixsh&show_icons=true&locale=en" alt="krixsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krixsh&" alt="krixsh" /></p>
+
+
