@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm krish,</h1>
 <h3 align="center">🌟 MERN Stack Enthusiast | Backend Developer | DevOps Aficionado 🌟</h3>
 <h5 align="center">As a MERN stack enthusiast, I thrive in crafting seamless user experiences while delving deep into backend intricacies. Beyond coding, I harbor a fascination for DevOps methodologies and cloud innovations. Eager to merge my frontend finesse, backend prowess, and DevOps intrigue, I seek a role that not only values my existing skills but propels me into new realms of expertise. Let's embark on a journey where code meets innovation, and every challenge is an opportunity for growth.</h5>
-<!-- <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ">  
+<!-- <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ" >  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krixsh&label=Profile%20views&color=0e75b6&style=flat" alt="krixsh" /> </p>
  -->   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krixsh" alt="krixsh" /></a> </p>
@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Pathfinding-Visualizer](https://github.com/KriXsh/Pathfinding-Visualizer)
 - 🌱 I’m currently learning **DevOps technologies, AI/ML,Database query optimization, AutoScaling,Data structures & Algorithm**
 - 👨‍💻 All of my projects are available at [https://krish.me](https://krish-me.netlify.app/)
-- 💬 Ask me about **Backend Devlopement, DevOps, node.js, Express.js, MongoDb, AWS, Elastic search, Redis**
+- 💬 Ask me about **Backend Devlopement, DevOps, node.js, Express.js, MongoDb, AWS, Elastic search, Redis**     
 - 📫 How to reach me **krishnendughosal999@gmail.com**
 - 📄 Know about my experiences [krishnendu's Resume Link](https://drive.google.com/file/d/1gocSJQeR-ItMpaQBJnYDZYTmSNVakzzL/view?usp=drive_link)
 
