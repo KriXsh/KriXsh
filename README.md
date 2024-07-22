@@ -31,7 +31,7 @@
 - Object-Oriented Programming Using Python - E-Box
 
 ## 🎓 Education
-- ## Lovely Professional University : 
+- Lovely Professional University : 
 B.Tech in Computer Science & Engineering (2019 - 2023) | CGPA: 7.0/10
 
 
