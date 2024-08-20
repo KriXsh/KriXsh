@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishxxoo" target="blank"><img src="https://img.shields.io/twitter/follow/krishxxoo?logo=twitter&style=for-the-badge" alt="krishxxoo" /></a> </p>
 
-- 🔭 I’m currently working on [Pathfinding-Visualizer](https://github.com/KriXsh/Pathfinding-Visualizer) various backend DevOps and AI/ML projects.
+- 🔭 I’m currently working as a Software Development Engineer (SDE) with a focus on various backend DevOps and AI/ML projects. 
 - 🌱 I’m currently learning **DevOps technologies, AI/ML,Database query optimization, AutoScaling,Data structures & Algorithm**
 - 👨‍💻 All of my projects are available at [https://krish.me](https://krish-me.netlify.app/)
 - 💬 Ask me about **Backend Devlopement, DevOps, node.js, Express.js, MongoDb, AWS, Elastic search, Redis**     
