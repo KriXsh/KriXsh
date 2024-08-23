@@ -12,7 +12,7 @@
 - 🔭 I’m currently working as a **Software Development Engineer (SDE)** with a focus on various backend, DevOps and AI/ML projects. 
 - 🌱 I’m currently learning **DevOps technologies, AI/ML,Database query optimization, AutoScaling,Data structures & Algorithm**
 - 👨‍💻 All of my projects are available at [https://krish.me](https://krish-me.netlify.app/)
-- 💬 Ask me about **Backend Devlopement, DevOps, node.js, Express.js, MongoDb, AWS, Elastic search, Redis**     
+- 💬 Ask me about **Backend Devlopement, DevOps, Java, node.js, Express.js, MongoDb, AWS, Elastic search, Redis**     
 - 📫 How to reach me **krishnendughosal999@gmail.com**
 - 📄 Know about my experiences [krishnendu's Resume Link](https://drive.google.com/file/d/1gocSJQeR-ItMpaQBJnYDZYTmSNVakzzL/view?usp=drive_link)
 
