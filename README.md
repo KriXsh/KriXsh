@@ -4,7 +4,7 @@
 <!-- <img align ="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ">   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krixsh&label=Profile%20views&color=0e75b6&style=flat" alt="krixsh" /></p> -->
 <!--demo text--> 
-<iframe src="https://github.com/sponsors/KriXsh/card" title="Sponsor KriXsh" height="225" width="600" style="border: 0;"></iframe>
+<!-- <iframe src="https://github.com/sponsors/KriXsh/card" title="Sponsor KriXsh" height="225" width="600" style="border: 0;"></iframe> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krixsh" alt="krixsh" /></a> </p>
 
