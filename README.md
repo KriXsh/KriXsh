@@ -15,10 +15,10 @@
 -  Check my portfolio here: [https://krish.me](https://krish-me.netlify.app/)
 
 - 👨‍💻Some of my projects are here 
-- [pathfinding-visualizer](https://pathfinding-visualizer-iqojnxuqm-krishs-projects-02e2b9ea.vercel.app/)
-- [Vision-Mark AI](https://wasserstoff-backend-task-front-end.vercel.app/register)
-- [sort-Fusion](https://sort-fusion-ui-git-krish-krishs-projects-02e2b9ea.vercel.app/)
-- [Video-Caption App](https://spyne-aiproject-243o7h2ee-krishs-projects-02e2b9ea.vercel.app/)
+- 1.[pathfinding-visualizer](https://pathfinding-visualizer-iqojnxuqm-krishs-projects-02e2b9ea.vercel.app/)
+- 2.[Vision-Mark AI](https://wasserstoff-backend-task-front-end.vercel.app/register)
+- 3.[sort-Fusion](https://sort-fusion-ui-git-krish-krishs-projects-02e2b9ea.vercel.app/)
+- 4.[Video-Caption App](https://spyne-aiproject-243o7h2ee-krishs-projects-02e2b9ea.vercel.app/)
 
 - 💬 Ask me about **Backend Devlopement, DevOps, Java, node.js, Express.js, MongoDb, AWS, Elastic search, Redis**     
 - 📫 How to reach me **krishnendughosal999@gmail.com**
