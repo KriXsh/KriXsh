@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **AI/ML,Database query optimization, AutoScaling,Data structures & Algorithm**
 -  Check my portfolio here: [https://krish.me](https://krish-me.netlify.app/)
 
-👨‍💻Some of my projects are here 
+- 👨‍💻Some of my projects are here 
 - [pathfinding-visualizer](https://pathfinding-visualizer-iqojnxuqm-krishs-projects-02e2b9ea.vercel.app/)
 - [Vision-Mark AI](https://wasserstoff-backend-task-front-end.vercel.app/register)
 - [sort-Fusion](https://sort-fusion-ui-git-krish-krishs-projects-02e2b9ea.vercel.app/)
