@@ -32,7 +32,7 @@
 - Utilized cloud services to deploy and manage applications, ensuring high availability and reliability.
 
 ##  🏆 Certifications & Achievements
-- Jumpstart - PublicSapients coding event
+- Jumpstart - PublicSapients Competitive Coding Event
 - ACE Multicloud Network Associate - Aviatrix
 - Java Foundations Certification - HackerRank
 - React Redux Training - Cipher Schools
