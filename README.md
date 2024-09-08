@@ -42,7 +42,7 @@
 
 ## 🎓 Education
 - Lovely Professional University : 
-B.Tech in Computer Science & Engineering (2019 - 2023) | CGPA: 7.0/10
+B.Tech in Computer Science & Engineering (2019 - 2023) | CGPA: 7.5/10
 
 
 ## <h3 align="left">📫 Connect with me:</h3>
