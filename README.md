@@ -11,14 +11,13 @@
 <p align="left"> <a href="https://twitter.com/krishxxoo" target="blank"><img src="https://img.shields.io/twitter/follow/krishxxoo?logo=twitter&style=for-the-badge" alt="krishxxoo" /></a> </p>
 
 - 🔭 I’m currently working as a **Software Development Engineer (SDE)** with a focus on various backend, DevOps and AI/ML projects. 
-- 🌱 I’m currently learning **AI/ML,Database query optimization, AutoScaling,Data structures & Algorithm**
+- 🌱 I’m currently learning **AI/ML, Database query optimization, AutoScaling,Data structures & Algorithm**
 -  Check my portfolio here: [https://krish.me](https://krish-me.netlify.app/)
 
 - 👨‍💻Some of my open projects are here 
 - 1.[pathfinding-visualizer](https://pathfinding-visualizer-iqojnxuqm-krishs-projects-02e2b9ea.vercel.app/)
-- 2.[Vision-Mark AI](https://wasserstoff-backend-task-front-end.vercel.app/register)
-- 3.[sort-Fusion](https://sort-fusion-ui-git-krish-krishs-projects-02e2b9ea.vercel.app/)
-- 4.[Video-Caption App](https://spyne-aiproject-243o7h2ee-krishs-projects-02e2b9ea.vercel.app/)
+- 2.[Document Extract Model- AI](https://doc-extract-client.vercel.app/)
+- 3.[bank-dashboard app](https://bank-dashboard-psi.vercel.app/)
 
 - 💬 Ask me about **Backend Devlopement, DevOps, Java, node.js, Express.js, MongoDb, AWS, Elastic search, Redis**     
 - 📫 How to reach me **krishnendughosal999@gmail.com**
