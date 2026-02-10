@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a **Software Development Engineer (SDE)** with a focus on various backend, DevOps and AI/ML projects. 
 - 🌱 I’m currently learning **AI/ML, Database query optimization, AutoScaling,Data structures & Algorithm**
--  Check my portfolio here: [https://krish.me](https://krish-me.netlify.app/)
+-  Check my portfolio here: [https://krish.me]([https://krish-me.netlify.app/](https://krish-portfolio-six.vercel.app/))
 
 - 👨‍💻Some of my open projects are here 
 - 1.[pathfinding-visualizer](https://pathfinding-visualizer-iqojnxuqm-krishs-projects-02e2b9ea.vercel.app/)
