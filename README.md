@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krixsh&label=Profile%20views&color=0e75b6&style=flat" alt="krixsh" /></p> -->
 <!--demo text-->  
 <!-- <iframe src="https://github.com/sponsors/KriXsh/card" title="Sponsor KriXsh" height="225" width="600" style="border: 0;"></iframe> -->
-
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krixsh" alt="krixsh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/krishxxoo" target="blank"><img src="https://img.shields.io/twitter/follow/krishxxoo?logo=twitter&style=for-the-badge" alt="krishxxoo" /></a> </p>
