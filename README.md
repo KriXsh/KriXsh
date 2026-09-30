@@ -15,7 +15,7 @@
 -  Check my portfolio here: [https://krish.me](https://krish-portfolio-six.vercel.app/)
 
 - 👨‍💻Some of my open projects are here 
-- 1.[pathfinding-visualizer](https://pathfinding-visualizer-iqojnxuqm-krishs-projects-02e2b9ea.vercel.app/)
+- 1.[pathfinding-visualizer](https://pathfinding-visualizer-theta-puce.vercel.app/)
 - 2.[Document Extract Model- AI](https://doc-extract-client.vercel.app/)
 - 3.[bank-dashboard app](https://bank-dashboard-psi.vercel.app/)
 
