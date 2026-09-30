@@ -47,7 +47,7 @@
 
 - 🤖 Managed AI agent lifecycles on **AWS SageMaker & Bedrock** and shipped STT and voice features end to end.
 - ⚡ Built event-driven async systems on **Kafka** and large-scale data migrations with **Argo Workflows on Kubernetes**.
-- 🛰️ Built the data collection behind a **media-monitoring platform for 60 Government of India ministries**: **200+ newspapers, YouTube, Twitter/X** and more, indexed in real time.
+- 🛰️ Built the crawlers, data pipelines and AI layer of a **media-monitoring platform for 60 Government of India ministries**: **200+ newspapers, YouTube, Twitter/X** and more, with **speech-to-text / text-to-speech APIs** and **prompt engineering**.
 - 🔐 Designed secure **RBAC** systems with JWT and AWS IAM across the frontend, backend and infrastructure.
 - 🚀 Architected **350+ APIs**, cut MongoDB response times by **40%**, reduced downtime by **40%** and improved server performance by **25%**.
 - ☁️ Reduced deployment time by **40%** and sped up software delivery by **40–50%** with Docker, Kubernetes and Jenkins / GitLab CI.
