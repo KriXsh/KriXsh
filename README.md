@@ -27,7 +27,7 @@
 - 👨‍💻 Some of my open projects:
   1. [**LMS Portal**](https://lms-ed-teach-eight.vercel.app): production-level EdTech platform (Next.js 15, TypeScript, MongoDB)
   2. [**StockX AI Portal**](https://stock-x-ai.vercel.app): live pricing, AI market recaps and sentiment-tagged news
-  3. [**Pathfinding Visualizer**](https://pathfinding-visualizer-chi-lyart.vercel.app): Dijkstra, A\*, BFS and DFS on a live grid
+  3. [**Pathfinding Visualizer**](https://pathfinding-visualizer-theta-puce.vercel.app/): Dijkstra, A\*, BFS and DFS on a live grid
   4. [**Sort-Fusion**](https://sort-fusion-ui.vercel.app): every swap and comparison of sorting algorithms, visualized
 - 💬 Ask me about **Next.js, Node.js, Python, Kafka, Kubernetes, AWS (SageMaker, Bedrock), Redis, MongoDB, Elasticsearch**
 - 📫 How to reach me: **krishnendughosal999@gmail.com**
