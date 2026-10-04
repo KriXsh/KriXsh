@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=180&section=header&text=Hi%20👋🏻,%20I'm%20Krish&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Krishnendu%20Ghosal&descAlignY=58&descSize=18" width="100%" alt="Header" />
  
-<p align="center">
+<p align="center"> 
   <a href="https://krish-portfolio-six.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Event-Driven+System+Designer+%E2%9A%A1" alt="Typing SVG" />
   </a>
