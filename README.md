@@ -33,15 +33,6 @@
 - 📫 How to reach me: **krishnendughosal999@gmail.com**
 - 📄 Know about my experience: **[Krishnendu's Resume](https://drive.google.com/file/d/17IshLoqvq43ccBGErfJb_26s0oQ0feUK/view?usp=sharing)**
 
-## 💼 Experience
-
-| 🏢 Company | 🧑‍💻 Role | 📅 When |
-| :-- | :-- | :-- |
-| **Ironbook AI** | Full-stack Developer & AI/ML Engineer | Aug 2025 – Present |
-| **Aaizel International Technologies** | Full-stack Developer | Mar 2025 – Jul 2025 |
-| **Floxify** | Full Stack Developer (Freelance) | Jan 2025 – Feb 2025 |
-| **Invincible Ocean** | Software Developer · Associate Software Developer | Jun 2023 – Dec 2024 |
-| **EPAM Systems** | Cloud & DevOps Intern | Jan 2023 – May 2023 |
 
 ## 🌟 Highlights
 
