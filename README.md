@@ -1,40 +1,143 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=180&section=header&text=Hi%20👋🏻,%20I'm%20Krish&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Krishnendu%20Ghosal&descAlignY=58&descSize=18" width="100%" alt="Header" />
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cfe9ff,45:5b8def,100:0a2a5e&height=200&section=header&text=Welcome%20to%20Krish's%20GitHub&fontSize=42&fontColor=0a2a5e&fontAlignY=38&desc=%3C%2F%3E%20Krishnendu%20Ghosal&descAlignY=60&descSize=20&descColor=0a2a5e" width="100%" alt="Header" />
+
 <p align="center">
   <a href="https://krish-portfolio-six.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Event-Driven+System+Designer+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7FB2FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Event-Driven+System+Designer+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">🌟 Full-Stack · AI/ML · Cloud Engineer 🌟</h3>
+<p align="center">
+  <a href="https://krish-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a1f44?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/krish-me/"><img src="https://img.shields.io/badge/LinkedIn-4f7cac?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:krishnendughosal999@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a1f44?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://drive.google.com/file/d/17IshLoqvq43ccBGErfJb_26s0oQ0feUK/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4f7cac?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+</p>
+
+<h3 align="center">Full-Stack · AI/ML · Cloud Engineer</h3>
 <h5 align="center">I'm a software engineer who architects AI-powered platforms, event-driven data pipelines and cloud infrastructure built to scale. From government-tech infrastructure to fintech platforms, I've delivered across diverse domains, driven by the thrill of solving complex problems, optimizing performance and building technology that genuinely improves people's lives.</h5>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krixsh&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/KriXsh?tab=followers"><img src="https://img.shields.io/github/followers/KriXsh?label=Followers&style=flat-square&color=6366f1&logo=github" alt="Followers" /></a>
-  <a href="https://twitter.com/krishxxoo"><img src="https://img.shields.io/twitter/follow/krishxxoo?logo=x&style=flat-square&color=000000&label=Follow" alt="Follow on X" /></a>
-  <a href="https://github.com/sponsors/KriXsh"><img src="https://img.shields.io/badge/Sponsor-❤-db61a2?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+  <img src="https://komarev.com/ghpvc/?username=krixsh&label=Profile%20views&color=4f7cac&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/KriXsh?tab=followers"><img src="https://img.shields.io/github/followers/KriXsh?label=Followers&style=for-the-badge&color=0a1f44&logo=github" alt="Followers" /></a>
+  <a href="https://twitter.com/krishxxoo"><img src="https://img.shields.io/twitter/follow/krishxxoo?logo=x&style=for-the-badge&color=4f7cac&label=Follow" alt="Follow on X" /></a>
+  <a href="https://github.com/sponsors/KriXsh"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-0a1f44?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 </p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=krixsh&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1" alt="krixsh trophies" /></a></p>
+<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/7fb2ff/source-code.png" width="22" alt=""/> <i>Technologies</i></h2>
 
----
+<p align="center"><sub><b>WEB</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0a1f44?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-4f7cac?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux-0a1f44?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/TypeScript-4f7cac?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-0a1f44?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-4f7cac?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-0a1f44?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/GraphQL-4f7cac?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Tailwind-0a1f44?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-4f7cac?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/HTML5-0a1f44?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-4f7cac?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-- 🔭 I'm currently working as a **Full-stack Developer & AI/ML Engineer at Ironbook AI**, building AI-powered services (speech-to-text, voice), customer data platforms and Kafka-driven pipelines on Kubernetes.
+<p align="center"><sub><b>AI & ML</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-0a1f44?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-4f7cac?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-0a1f44?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-4f7cac?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-0a1f44?style=for-the-badge" alt="AWS SageMaker"/>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-4f7cac?style=for-the-badge" alt="AWS Bedrock"/>
+</p>
+
+<p align="center"><sub><b>CLOUD & DEVOPS</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-0a1f44?style=for-the-badge" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-4f7cac?style=for-the-badge" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0a1f44?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-4f7cac?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kafka-0a1f44?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Jenkins-4f7cac?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0a1f44?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/GitLab-4f7cac?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Nginx-0a1f44?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Linux-4f7cac?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-0a1f44?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
+
+<p align="center"><sub><b>DATABASES</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-0a1f44?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-4f7cac?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0a1f44?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4f7cac?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-0a1f44?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+</p>
+
+<p align="center"><sub><b>LANGUAGES & TOOLS</b></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0a1f44?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-4f7cac?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-0a1f44?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-4f7cac?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Selenium-0a1f44?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+</p>
+
+
+<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/7fb2ff/source-code.png" width="22" alt=""/> <i>Statistics</i></h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krixsh&show_icons=true&include_all_commits=true&count_private=true&locale=en&bg_color=0a1628&title_color=7fb2ff&icon_color=4f7cac&text_color=c9d6ec&border_color=1e3a6e&hide_border=false&border_radius=12" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=krixsh&layout=compact&langs_count=8&locale=en&bg_color=0a1628&title_color=7fb2ff&icon_color=4f7cac&text_color=c9d6ec&border_color=1e3a6e&hide_border=false&border_radius=12" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=krixsh&background=0A1628&ring=4F7CAC&fire=7FB2FF&currStreakLabel=7FB2FF&currStreakNum=C9D6EC&sideLabels=7FB2FF&sideNums=C9D6EC&dates=6B8BB8&stroke=1E3A6E&border_radius=12" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://activity-graph.vercel.app/graph?username=krixsh&bg_color=020c24&color=7fb2ff&line=4f7cac&point=ffffff&area_color=4f7cac&area=true&hide_border=true&radius=12&title_color=7fb2ff" alt="Contribution graph" />
+</p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=krixsh&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1" alt="krixsh trophies" /></a></p>
+
+<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/7fb2ff/source-code.png" width="22" alt=""/> <i>About Me</i></h2>
+
+<table align="center">
+<tr>
+<td align="center" width="30%">
+  <img src="https://wsrv.nl/?url=github.com/KriXsh.png&w=220&h=220&fit=cover&mask=circle" width="200" alt="Krish" /><br/>
+  <b>Krishnendu Ghosal</b><br/><sub>Full-Stack · AI/ML · Cloud</sub>
+</td>
+<td width="70%">
+
+- 🔭 Currently working as a **Full-stack Developer & AI/ML Engineer at Ironbook AI**, building AI-powered services (speech-to-text, voice), customer data platforms and Kafka-driven pipelines on Kubernetes.
 - 🧭 **3+ years** of engineering across **5 companies** and **4+ domains**: B2G / Gov-Tech, FinOps / Fintech, B2B Enterprise and B2C Digital.
-- 🌱 I'm currently learning **LLM agents, RAG architectures, MLOps and large-scale system design**.
-- 🌐 Check my portfolio here: **[krish-portfolio-six.vercel.app](https://krish-portfolio-six.vercel.app)**
-- 👨‍💻 Some of my open projects:
-  1. [**LMS Portal**](https://lms-ed-teach-eight.vercel.app): production-level EdTech platform (Next.js 15, TypeScript, MongoDB)
-  2. [**StockX AI Portal**](https://stock-x-ai.vercel.app): live pricing, AI market recaps and sentiment-tagged news
-  3. [**Pathfinding Visualizer**](https://pathfinding-visualizer-theta-puce.vercel.app/): Dijkstra, A\*, BFS and DFS on a live grid
-  4. [**Sort-Fusion**](https://sort-fusion-ui.vercel.app): every swap and comparison of sorting algorithms, visualized
-- 💬 Ask me about **Next.js, Node.js, Python, Kafka, Kubernetes, AWS (SageMaker, Bedrock), Redis, MongoDB, Elasticsearch**
-- 📫 How to reach me: **krishnendughosal999@gmail.com**
-- 📄 Know about my experience: **[Krishnendu's Resume](https://drive.google.com/file/d/17IshLoqvq43ccBGErfJb_26s0oQ0feUK/view?usp=sharing)**
+- 🌱 Learning **LLM agents, RAG architectures, MLOps and large-scale system design**.
+- 💬 Ask me about **Next.js, Node.js, Python, Kafka, Kubernetes, AWS (SageMaker, Bedrock), Redis, MongoDB, Elasticsearch**.
+- 🌐 Portfolio: **[krish-portfolio-six.vercel.app](https://krish-portfolio-six.vercel.app)**
+- 📫 Reach me: **krishnendughosal999@gmail.com**
+- 📄 Experience: **[Krishnendu's Resume](https://drive.google.com/file/d/17IshLoqvq43ccBGErfJb_26s0oQ0feUK/view?usp=sharing)**
 
+</td>
+</tr>
+</table>
 
-## 🌟 Highlights
+<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/7fb2ff/source-code.png" width="22" alt=""/> <i>Open Projects</i></h2>
+
+<table align="center">
+<tr>
+<td align="center" width="50%"><a href="https://lms-ed-teach-eight.vercel.app"><b>LMS Portal</b></a><br/><br/>Production-level EdTech platform<br/><sub>Next.js 15 · TypeScript · MongoDB</sub></td>
+<td align="center" width="50%"><a href="https://stock-x-ai.vercel.app"><b>StockX AI Portal</b></a><br/><br/>Live pricing, AI market recaps and sentiment-tagged news</td>
+</tr>
+<tr>
+<td align="center" width="50%"><a href="https://pathfinding-visualizer-theta-puce.vercel.app/"><b>Pathfinding Visualizer</b></a><br/><br/>Dijkstra, A\*, BFS and DFS on a live grid</td>
+<td align="center" width="50%"><a href="https://sort-fusion-ui.vercel.app"><b>Sort-Fusion</b></a><br/><br/>Every swap and comparison of sorting algorithms, visualized</td>
+</tr>
+</table>
+
+<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/7fb2ff/source-code.png" width="22" alt=""/> <i>Highlights</i></h2>
 
 - 🤖 Managed AI agent lifecycles on **AWS SageMaker & Bedrock** and shipped STT and voice features end to end.
 - ⚡ Built event-driven async systems on **Kafka** and large-scale data migrations with **Argo Workflows on Kubernetes**.
@@ -43,98 +146,35 @@
 - 🚀 Architected **350+ APIs**, cut MongoDB response times by **40%**, reduced downtime by **40%** and improved server performance by **25%**.
 - ☁️ Reduced deployment time by **40%** and sped up software delivery by **40–50%** with Docker, Kubernetes and Jenkins / GitLab CI.
 
-## 🏆 Certifications & Achievements
+<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/7fb2ff/source-code.png" width="22" alt=""/> <i>Certifications & Achievements</i></h2>
 
-- 🧠 [Claude Certified Associate – Foundations](https://www.credly.com/badges/cd067e9d-a3b6-4224-a063-086cdfdcc67b/public_url) · Anthropic
-- 🥇 Jumpstart – Publicis Sapient Competitive Coding Event
-- 🌐 ACE Multicloud Network Associate · Aviatrix
-- ☕ [Java Foundations Certification](https://www.hackerrank.com/certificates/a9ef7324ba06) · HackerRank
-- ⚛️ React Redux Training · Cipher Schools
-- 🤖 Artificial Intelligence Fundamentals · Invincible Ocean
-- 🛡️ Website Hacking / Penetration Testing · Udemy
-- 💻 Web Development Bootcamp · Udemy
-- 🐍 Object-Oriented Programming Using Python · E-Box
+| | Certification | Issuer |
+|:-:|:--|:--|
+| 🧠 | [Claude Certified Associate – Foundations](https://www.credly.com/badges/cd067e9d-a3b6-4224-a063-086cdfdcc67b/public_url) | Anthropic |
+| 🥇 | Jumpstart – Publicis Sapient Competitive Coding Event | — |
+| 🌐 | ACE Multicloud Network Associate | Aviatrix |
+| ☕ | [Java Foundations Certification](https://www.hackerrank.com/certificates/a9ef7324ba06) | HackerRank |
+| ⚛️ | React Redux Training | Cipher Schools |
+| 🤖 | Artificial Intelligence Fundamentals | Invincible Ocean |
+| 🛡️ | Website Hacking / Penetration Testing | Udemy |
+| 💻 | Web Development Bootcamp | Udemy |
+| 🐍 | Object-Oriented Programming Using Python | E-Box |
 
-## 🎓 Education
+<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/7fb2ff/source-code.png" width="22" alt=""/> <i>Education</i></h2>
 
-- **Lovely Professional University**: B.Tech in Computer Science & Engineering (2019 – 2023) · CGPA 7.0/10
+<p align="center"><b>Lovely Professional University</b><br/>B.Tech in Computer Science & Engineering · 2019 – 2023 · CGPA 7.0/10</p>
 
-## 📫 Connect with me
-
-<p align="left">
-<a href="https://krish-portfolio-six.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/krish-me/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/krishxxoo" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://instagram.com/krishxxoo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://leetcode.com/u/KriXsh999/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/krishnendughosa1" target="blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-<a href="https://www.codechef.com/users/krishnendu_99" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-<a href="mailto:krishnendughosal999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
-
-## 🔧 Languages and Tools
-
-**🌐 Web**<br/>
-<a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-<a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-<a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-
-**🤖 AI & ML**<br/>
-<a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://huggingface.co"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/></a>
-<a href="https://www.langchain.com"><img src="https://cdn.simpleicons.org/langchain/1C9E7F" alt="langchain" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/sagemaker/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws sagemaker & bedrock" width="40" height="40"/></a>
-
-**☁️ Cloud & DevOps**<br/>
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kafka.apache.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/></a>
-<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/></a>
-<a href="https://about.gitlab.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
-<a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-
-**🗄️ Databases**<br/>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.elastic.co"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-
-**🧰 Languages & Tools**<br/>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
-
-## 📈 GitHub Stats
+<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/30/7fb2ff/source-code.png" width="22" alt=""/> <i>Connect with me</i></h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krixsh&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=krixsh&layout=compact&langs_count=8&locale=en&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+  <a href="https://krish-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a1f44?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/krish-me/"><img src="https://img.shields.io/badge/LinkedIn-4f7cac?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/krishxxoo"><img src="https://img.shields.io/badge/X-0a1f44?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://instagram.com/krishxxoo"><img src="https://img.shields.io/badge/Instagram-4f7cac?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://leetcode.com/u/KriXsh999/"><img src="https://img.shields.io/badge/LeetCode-0a1f44?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/krishnendughosa1"><img src="https://img.shields.io/badge/HackerRank-4f7cac?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://www.codechef.com/users/krishnendu_99"><img src="https://img.shields.io/badge/CodeChef-0a1f44?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="mailto:krishnendughosal999@gmail.com"><img src="https://img.shields.io/badge/Gmail-4f7cac?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=krixsh&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://activity-graph.vercel.app/graph?username=krixsh&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Contribution graph" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=110&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a5e,55:5b8def,100:cfe9ff&height=110&section=footer" width="100%" alt="Footer" />
