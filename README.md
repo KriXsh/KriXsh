@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cfe9ff,45:5b8def,100:0a2a5e&height=200&section=header&text=Welcome%20to%20Krish's%20GitHub&fontSize=42&fontColor=0a2a5e&fontAlignY=38&desc=%3C%2F%3E%20Krishnendu%20Ghosal&descAlignY=60&descSize=20&descColor=0a2a5e" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cfe9ff,45:5b8def,100:0a2a5e&height=200&section=header&text=Welcome%20to%20Krish%20GitHub&fontSize=42&fontColor=0a2a5e&fontAlignY=38&desc=Krishnendu%20Ghosal&descAlignY=60&descSize=20&descColor=0a2a5e" width="100%" alt="Header" />
 
 <p align="center">
   <a href="https://krish-portfolio-six.vercel.app">
