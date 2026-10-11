@@ -54,11 +54,16 @@ async function fetchData() {
     langs[e.node.name] ??= { size: 0, color: e.node.color || C.steel };
     langs[e.node.name].size += e.size;
   }
+  // de-duplicate dates across year queries and drop future days
+  const today = new Date().toISOString().slice(0, 10);
+  const byDate = new Map();
+  for (const x of days) if (x.date <= today) byDate.set(x.date, Math.max(x.count, byDate.get(x.date) || 0));
+  const clean = [...byDate].map(([date, count]) => ({ date, count })).sort((a, b) => a.date.localeCompare(b.date));
   return {
     followers: u.followers.totalCount, prs: u.pullRequests.totalCount, issues: u.issues.totalCount,
     repos: u.repositories.totalCount, stars: u.repositories.nodes.reduce((a, r) => a + r.stargazerCount, 0),
     commitsYear: u.contributionsCollection.totalCommitContributions + u.contributionsCollection.restrictedContributionsCount,
-    allTime, days, langs,
+    allTime, days: clean, langs,
   };
 }
 
@@ -156,7 +161,8 @@ ${ring ? `<circle cx="${cx}" cy="104" r="40" fill="none" stroke="${C.sapphire}" 
 
 function activity(d) {
   const W = 880, H = 300, L = 56, R = 28, T = 64, B = 52;
-  const last = d.days.slice().sort((a, b) => a.date.localeCompare(b.date)).slice(-31);
+  const today = new Date().toISOString().slice(0, 10);
+  const last = d.days.filter(x => x.date <= today).sort((a, b) => a.date.localeCompare(b.date)).slice(-31);
   const max = Math.max(4, ...last.map(x => x.count));
   const step = Math.ceil(max / 4); const top = step * 4;
   const X = i => L + i * ((W - L - R) / (last.length - 1)), Y = v => T + (H - T - B) * (1 - v / top);

@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krixsh&label=Profile%20views&color=13264A&style=for-the-badge" alt="Profile views" />
+  <img src="./assets/stats/pills.svg" height="28" alt="Followers, stars and repositories" />
   <a href="https://github.com/KriXsh?tab=followers"><img src="./assets/buttons/github.svg" height="28" alt="GitHub" /></a>
   <a href="https://twitter.com/krishxxoo"><img src="./assets/buttons/follow-x.svg" height="28" alt="Follow on X" /></a>
   <a href="https://github.com/sponsors/KriXsh"><img src="./assets/buttons/sponsor.svg" height="28" alt="Sponsor" /></a>
@@ -130,19 +130,17 @@ I'm a software engineer who architects **AI-powered platforms**, **event-driven 
 <h2 align="center">By the numbers.</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krixsh&show_icons=true&include_all_commits=true&count_private=true&locale=en&bg_color=0B1019&title_color=E4CFA8&icon_color=8FB3E8&text_color=9EA8B8&border_color=1E2A40&hide_border=false&border_radius=14" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=krixsh&layout=compact&langs_count=8&locale=en&bg_color=0B1019&title_color=E4CFA8&text_color=9EA8B8&border_color=1E2A40&hide_border=false&border_radius=14" alt="Top languages" />
+  <img src="./assets/stats/overview.svg" width="49%" alt="GitHub stats" />
+  <img src="./assets/stats/languages.svg" width="49%" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=krixsh&background=0B1019&ring=2A4F8F&fire=8FB3E8&currStreakLabel=E4CFA8&currStreakNum=E8EBF0&sideLabels=E4CFA8&sideNums=E8EBF0&dates=7F8A9C&stroke=1E2A40&border=1E2A40&border_radius=14" alt="GitHub streak" />
-</p>
+<p align="center"><img src="./assets/stats/streak.svg" width="100%" alt="Contribution streak" /></p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krixsh&bg_color=070A11&color=E4CFA8&line=4A74C4&point=8FB3E8&area_color=13264A&area=true&hide_border=true&radius=14&title_color=E4CFA8" alt="Contribution graph" />
-</p>
+<p align="center"><img src="./assets/stats/activity.svg" width="100%" alt="Contribution activity, last 31 days" /></p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=krixsh&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1" alt="krixsh trophies" /></a></p>
+<p align="center"><img src="./assets/stats/heatmap.svg" width="100%" alt="Contributions, last 12 months" /></p>
+
+<p align="center"><sub><i>Stats refresh automatically every 6 hours via GitHub Actions.</i></sub></p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
