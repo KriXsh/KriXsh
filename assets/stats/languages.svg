@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="Top languages">
+<style>
+text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif}
+.h{font-size:13px;font-weight:600;letter-spacing:3px;fill:#E4CFA8}
+.k{font-size:12.5px;fill:#9EA8B8}
+.v{font-size:15px;font-weight:700;fill:#E8EBF0}
+.f{opacity:0;animation:in .7s ease-out forwards}
+@keyframes in{to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}
+
+</style>
+<rect x=".5" y=".5" width="439" height="235" rx="16" fill="#0B1019" stroke="#1E2A40"/>
+<text x="26" y="36" class="h">TOP LANGUAGES</text>
+<clipPath id="bc"><rect x="26" y="54" width="388" height="10" rx="5"/></clipPath><g clip-path="url(#bc)"><rect x="26" y="54" width="244.41727817274267" height="10" fill="#3178c6"/><rect x="270.41727817274267" y="54" width="90.07009519134493" height="10" fill="#f1e05a"/><rect x="360.4873733640876" y="54" width="19.78393359011475" height="10" fill="#663399"/><rect x="380.2713069542024" y="54" width="18.508784211568553" height="10" fill="#b07219"/><rect x="398.78009116577095" y="54" width="5.95424419150576" height="10" fill="#f34b7d"/><rect x="404.73433535727673" y="54" width="5.691278449791423" height="10" fill="#3572A5"/><rect x="410.42561380706815" y="54" width="3.0098575430239034" height="10" fill="#e34c26"/><rect x="413.43547135009203" y="54" width="2" height="10" fill="#844FBA"/></g>
+<g class="f" style="animation-delay:0s"><circle cx="32" cy="92" r="5" fill="#3178c6"/><text x="44" y="96" class="k" style="fill:#E8EBF0">TypeScript</text><text x="210" y="96" class="k" text-anchor="end">63.0%</text></g>
+<g class="f" style="animation-delay:0.06s"><circle cx="232" cy="92" r="5" fill="#f1e05a"/><text x="244" y="96" class="k" style="fill:#E8EBF0">JavaScript</text><text x="410" y="96" class="k" text-anchor="end">23.2%</text></g>
+<g class="f" style="animation-delay:0.12s"><circle cx="32" cy="124" r="5" fill="#663399"/><text x="44" y="128" class="k" style="fill:#E8EBF0">CSS</text><text x="210" y="128" class="k" text-anchor="end">5.1%</text></g>
+<g class="f" style="animation-delay:0.18s"><circle cx="232" cy="124" r="5" fill="#b07219"/><text x="244" y="128" class="k" style="fill:#E8EBF0">Java</text><text x="410" y="128" class="k" text-anchor="end">4.8%</text></g>
+<g class="f" style="animation-delay:0.24s"><circle cx="32" cy="156" r="5" fill="#f34b7d"/><text x="44" y="160" class="k" style="fill:#E8EBF0">C++</text><text x="210" y="160" class="k" text-anchor="end">1.5%</text></g>
+<g class="f" style="animation-delay:0.3s"><circle cx="232" cy="156" r="5" fill="#3572A5"/><text x="244" y="160" class="k" style="fill:#E8EBF0">Python</text><text x="410" y="160" class="k" text-anchor="end">1.5%</text></g>
+<g class="f" style="animation-delay:0.36s"><circle cx="32" cy="188" r="5" fill="#e34c26"/><text x="44" y="192" class="k" style="fill:#E8EBF0">HTML</text><text x="210" y="192" class="k" text-anchor="end">0.8%</text></g>
+<g class="f" style="animation-delay:0.42s"><circle cx="232" cy="188" r="5" fill="#844FBA"/><text x="244" y="192" class="k" style="fill:#E8EBF0">HCL</text><text x="410" y="192" class="k" text-anchor="end">0.1%</text></g>
+</svg>
