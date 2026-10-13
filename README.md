@@ -1,7 +1,7 @@
 <!-- Midnight & Brass theme: matches krish-portfolio-six.vercel.app
      ink #070A11 · surface #0B1019 · navy #13264A · sapphire #2A4F8F
      steel #4A74C4 · ice #8FB3E8 · champagne #E4CFA8 · ivory #E8EBF0
-     Skill cards + buttons are self-hosted in ./assets (no external badge service). -->
+     Skill cards + buttons are self-hosted in ./assets (no external badge service). -->.  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070A11,45:13264A,100:2A4F8F&height=230&section=header&text=Krishnendu%20Ghosal&fontSize=56&fontColor=E4CFA8&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%2FML%20%C2%B7%20Cloud%20Engineer&descAlignY=62&descSize=18&descColor=8FB3E8&animation=fadeIn" width="100%" alt="Krishnendu Ghosal" />
 
