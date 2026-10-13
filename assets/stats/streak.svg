@@ -13,7 +13,7 @@ text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif}
 <text x="26" y="36" class="h">STREAK</text>
 <g class="f" style="animation-delay:0s">
 
-<text x="147" y="108" text-anchor="middle" style="font-size:28px;font-weight:700;fill:#E8EBF0">845</text>
+<text x="147" y="108" text-anchor="middle" style="font-size:28px;font-weight:700;fill:#E8EBF0">850</text>
 <text x="147" y="172" text-anchor="middle" style="font-size:14px;font-weight:600;fill:#E4CFA8">Total contributions</text>
 <text x="147" y="194" text-anchor="middle" style="font-size:12px;fill:#6B7689">Jan 1, 2021 – Present</text></g>
 <line x1="293" y1="60" x2="293" y2="196" stroke="#1E2A40"/><line x1="587" y1="60" x2="587" y2="196" stroke="#1E2A40"/>
