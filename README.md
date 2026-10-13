@@ -23,9 +23,9 @@
   <a href="https://github.com/sponsors/KriXsh"><img src="https://img.shields.io/badge/Sponsor-E4CFA8?style=flat-square&logo=githubsponsors&logoColor=070A11&labelColor=070A11" height="18" alt="Sponsor"/></a>
 </p>
 
-<p align="center"><sub><code>RFC-KRISH-001</code> &nbsp;·&nbsp; Status: <b>Production</b> &nbsp;·&nbsp; Region: India → worldwide &nbsp;·&nbsp; Open to: new projects &amp; remote roles</sub></p>
+<p align="center"><code>RFC-KRISH-001</code> &nbsp;·&nbsp; Status: <b>Production</b> &nbsp;·&nbsp; Region: India → worldwide &nbsp;·&nbsp; Open to: new projects &amp; remote roles</p>
 
-<p align="center"><sub>
+<p align="center">
 <a href="#-01--whoami">01 whoami</a> ·
 <a href="#-02--architecture">02 architecture</a> ·
 <a href="#-03--changelog">03 changelog</a> ·
@@ -34,7 +34,7 @@
 <a href="#-06--telemetry">06 telemetry</a> ·
 <a href="#-07--signed-artifacts">07 signed artifacts</a> ·
 <a href="#-08--open-ports">08 open ports</a>
-</sub></p>
+</p>
 
 ---
 
@@ -98,12 +98,12 @@ flowchart LR
   classDef out fill:#E4CFA8,stroke:#E4CFA8,color:#070A11;
 ```
 
-| <sub>SLO</sub> | <sub>Principle</sub> | <sub>Reference</sub> |
+| SLO | Principle | Reference |
 |:-:|:--|:--|
-| <sub>`p0`</sub> | <sub>**Production over demos**: AI that ships and holds up under real users</sub> | <sub>[Case study: Voice AI, speech in, speech out](https://krish-portfolio-six.vercel.app/case-studies/ironbook-voice-ai)</sub> |
-| <sub>`p1`</sub> | <sub>**Measure, then optimise**: numbers before opinions</sub> | <sub>[Case study: a secure, fast API platform for fintech](https://krish-portfolio-six.vercel.app/case-studies/invincible-ocean-api-platform)</sub> |
-| <sub>`p2`</sub> | <sub>**Security is architecture**: access control from the first schema</sub> | <sub>[Blog: RBAC done right](https://krish-portfolio-six.vercel.app/blog/rbac-done-right)</sub> |
-| <sub>`p3`</sub> | <sub>**Automate the path to prod**: releases should be boring</sub> | <sub>[Blog: Zero-downtime deploys](https://krish-portfolio-six.vercel.app/blog/zero-downtime-deploys)</sub> |
+| `p0` | **Production over demos**: AI that ships and holds up under real users | [Case study: Voice AI, speech in, speech out](https://krish-portfolio-six.vercel.app/case-studies/ironbook-voice-ai) |
+| `p1` | **Measure, then optimise**: numbers before opinions | [Case study: a secure, fast API platform for fintech](https://krish-portfolio-six.vercel.app/case-studies/invincible-ocean-api-platform) |
+| `p2` | **Security is architecture**: access control from the first schema | [Blog: RBAC done right](https://krish-portfolio-six.vercel.app/blog/rbac-done-right) |
+| `p3` | **Automate the path to prod**: releases should be boring | [Blog: Zero-downtime deploys](https://krish-portfolio-six.vercel.app/blog/zero-downtime-deploys) |
 
 ---
 
@@ -139,12 +139,12 @@ $ git log --oneline --graph career
 
 ## ✦ 04 · deployments
 
-| <sub>Service</sub> | <sub>What it does</sub> | <sub>Stack</sub> | <sub>Status</sub> |
+| Service | What it does | Stack | Status |
 |:--|:--|:--|:-:|
-| <sub>[**StockX AI Portal**](https://stock-x-ai.vercel.app)</sub> | <sub>Live pricing, AI market recaps and sentiment-tagged news</sub> | <sub>Next.js · AI recaps · live market data</sub> | <sub>🟢 live</sub> |
-| <sub>[**LMS Portal**](https://lms-ed-teach-eight.vercel.app)</sub> | <sub>Production-level EdTech platform for courses and learners</sub> | <sub>Next.js 15 · TypeScript · MongoDB</sub> | <sub>🟢 live</sub> |
-| <sub>[**Pathfinding Visualizer**](https://pathfinding-visualizer-theta-puce.vercel.app/)</sub> | <sub>Dijkstra, A\*, BFS and DFS on a live, editable grid</sub> | <sub>Next.js · TypeScript · Framer Motion</sub> | <sub>🟢 live</sub> |
-| <sub>[**SortFusion**](https://sort-fusion-ui.vercel.app)</sub> | <sub>Every compare and swap of eight sorting algorithms, visualized</sub> | <sub>Next.js · TypeScript · Framer Motion</sub> | <sub>🟢 live</sub> |
+| [**StockX AI Portal**](https://stock-x-ai.vercel.app) | Live pricing, AI market recaps and sentiment-tagged news | Next.js · AI recaps · live market data | 🟢 live |
+| [**LMS Portal**](https://lms-ed-teach-eight.vercel.app) | Production-level EdTech platform for courses and learners | Next.js 15 · TypeScript · MongoDB | 🟢 live |
+| [**Pathfinding Visualizer**](https://pathfinding-visualizer-theta-puce.vercel.app/) | Dijkstra, A\*, BFS and DFS on a live, editable grid | Next.js · TypeScript · Framer Motion | 🟢 live |
+| [**SortFusion**](https://sort-fusion-ui.vercel.app) | Every compare and swap of eight sorting algorithms, visualized | Next.js · TypeScript · Framer Motion | 🟢 live |
 
 <p align="center"><a href="https://krish-portfolio-six.vercel.app/projects"><img src="https://img.shields.io/badge/View_all_projects-→-E4CFA8?style=for-the-badge&labelColor=13264A" height="22" alt="View all projects"/></a></p>
 
@@ -214,16 +214,16 @@ $ git log --oneline --graph career
 <summary><b>More artifacts</b> &nbsp;<sub>(8)</sub></summary>
 <br/>
 
-| | <sub>Certification</sub> | <sub>Issuer</sub> |
+| | Certification | Issuer |
 |:-:|:--|:--|
-| <sub>🥇</sub> | <sub>Jumpstart – Publicis Sapient Competitive Coding Event</sub> | <sub>Publicis Sapient</sub> |
-| <sub>🌐</sub> | <sub>ACE Multicloud Network Associate</sub> | <sub>Aviatrix</sub> |
-| <sub>☕</sub> | <sub>[Java Foundations Certification](https://www.hackerrank.com/certificates/a9ef7324ba06)</sub> | <sub>HackerRank</sub> |
-| <sub>⚛️</sub> | <sub>React Redux Training</sub> | <sub>Cipher Schools</sub> |
-| <sub>🤖</sub> | <sub>Artificial Intelligence Fundamentals</sub> | <sub>Invincible Ocean</sub> |
-| <sub>🛡️</sub> | <sub>Website Hacking / Penetration Testing</sub> | <sub>Udemy</sub> |
-| <sub>💻</sub> | <sub>Web Development Bootcamp</sub> | <sub>Udemy</sub> |
-| <sub>🐍</sub> | <sub>Object-Oriented Programming Using Python</sub> | <sub>E-Box</sub> |
+| 🥇 | Jumpstart – Publicis Sapient Competitive Coding Event | Publicis Sapient |
+| 🌐 | ACE Multicloud Network Associate | Aviatrix |
+| ☕ | [Java Foundations Certification](https://www.hackerrank.com/certificates/a9ef7324ba06) | HackerRank |
+| ⚛️ | React Redux Training | Cipher Schools |
+| 🤖 | Artificial Intelligence Fundamentals | Invincible Ocean |
+| 🛡️ | Website Hacking / Penetration Testing | Udemy |
+| 💻 | Web Development Bootcamp | Udemy |
+| 🐍 | Object-Oriented Programming Using Python | E-Box |
 
 </details>
 
@@ -251,6 +251,6 @@ PORT    SERVICE        STATUS
   <a href="mailto:krishnendughosal999@gmail.com"><img src="https://img.shields.io/badge/Gmail-E4CFA8?style=for-the-badge&logo=gmail&logoColor=070A11" height="22" alt="Gmail"/></a>
 </p>
 
-<p align="center"><sub><code>$ systemctl status krish.service</code> &nbsp;→&nbsp; <b>● active (running)</b> &nbsp;·&nbsp; thanks for visiting ✦</sub></p>
+<p align="center"><code>$ systemctl status krish.service</code> &nbsp;→&nbsp; <b>● active (running)</b> &nbsp;·&nbsp; thanks for visiting ✦</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A4F8F,55:13264A,100:070A11&height=70&section=footer" width="100%" alt="" />
